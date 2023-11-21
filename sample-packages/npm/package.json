@@ -1,3 +1,12 @@
 {
-  "your": "json config here"
+  "your": "json config here",
+  "name": "@pabi-milestone/publish-package",
+  "version": "1.0.0",
+  "description": "My test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "PABI",
+  "license": "ISC"
 }
