@@ -8,5 +8,8 @@
     "test": "exit 0"
   },
   "author": "PABI",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+	  "@pabi-milestone:registry": "https://npm.pkg.github.com"
+  }
 }
